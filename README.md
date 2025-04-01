@@ -96,7 +96,7 @@
 
 ---
 
-## 🚀 **Module 6: Business Analytics**  
+## 👨‍💻 **Module 6: Business Analytics**  
 ### Theory  
 - Metrics: ROI, CTR (💸 "Follow the money!").  
 - Customer Segmentation (RFM Analysis)
