@@ -152,7 +152,7 @@ Turn a technical ML report into a 3-slide exec summary with a meme on slide 2.
 1. **Analyze**: [COVID-19 Data](https://ourworldindata.org/covid-deaths).  
 2. **Visualize**: Build a Tableau/Power BI dashboard.  
 3. **Present**: 5-slide deck with a meme on slide 3!
-4. 
+
 ### Tasks:
 - End-to-End Project: From scraping to ML deployment.
 - Kaggle Competition: Top 20% finish.
