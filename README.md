@@ -1,5 +1,3 @@
-# Junior-and-From-Junior-To-Middle-Roadmap
-
 # 📊 Junior Data/Product Analyst Roadmap
 
 ## 🎯 Основні напрямки навчання
