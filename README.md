@@ -38,7 +38,7 @@
 ## 🐍 **Module 2: Python/R for Data Analysis**  
 ### Theory  
 - Python basics: Pandas (🐼 "Data-eating bear!"), NumPy (🧮 "Math magic!").
-- Web Scraping (BeautifulSoup, Scrapy)
+- Web Scraping (BeautifulSoup, Scrapy, Selenium)
 - APIs (Requests, JSON Parsing)
 - Parallel Processing (Multiprocessing, Dask)
 - Debugging (pdb, Logging)
