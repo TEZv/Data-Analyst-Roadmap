@@ -96,4 +96,4 @@
 ### 📚 **Resources**  
 - **Books**: *Naked Statistics*, *Python for Everybody* (free!).  
 - **Communities**: `r/dataanalysis`, `#DataFam`.  
-- **Joke**: "Why was the SQL query sad? Too many `GROUP BY`s, no `PARTY BY`s!" 🎉  
+- **Joke**: "Why was the SQL query sad? Too many `GROUP BY`s, no `FUNNY BY`s!" 🎉  
