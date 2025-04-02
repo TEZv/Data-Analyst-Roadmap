@@ -1,5 +1,6 @@
 # 📊 Data Analyst Roadmap: Newbie to Junior-Level 
 [by Digital Kosatiks]
+
 *Streamlined foundational program with deep practical focus - "Learn to walk before you fly!"* ✨
 
 ---
