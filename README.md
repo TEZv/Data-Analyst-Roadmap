@@ -102,6 +102,28 @@
 ### Practical  
 - **Task**: Create GitHub repo with your Titanic analysis → Get 3 stars ⭐ from friends  
 
+## 🔒 Module 7: Data Governance & Ethics
+### Theory
+- Data Privacy (Pseudonymization, k-Anonymity)
+- Compliance (HIPAA, CCPA)
+- Metadata Management (Data Catalogs)
+- Audit Trails
+- AI Ethics (Fairness, Accountability)
+
+### Task:
+Anonymize a dataset of patient records (use hashing and generalization).
+
+## 🗣️ Module 8: Communication & Leadership
+### Theory
+- Stakeholder Mapping
+- Data Storytelling (Story Arc, Hero’s Journey)
+- Executive Summaries
+- Change Management
+- Mentorship
+
+### Task:
+Turn a technical ML report into a 3-slide exec summary with a meme on slide 2.
+
 ---
 
 ## 🎯 **Final Project**  
@@ -118,4 +140,5 @@
 ### 📚 **Resources**  
 - **Math for ML**: [3Blue1Brown's Essence of Calculus](https://www.3blue1brown.com/topics/calculus)  
 - **SQL Fun**: [SQL Island Game](https://sql-island.informatik.uni-kl.de/)  
-- **Joke**: Why did the data analyst break up with Excel? Because they wanted a *relation*ship! 💔  
+- **1 Non-Funny Joke**: Why did the data analyst break up with Excel? Because they wanted a *relation*ship! 💔
+- **2 Non-Funny but closer to Joke**: "Why was the SQL query sad? Too many `GROUP BY`s, no `FUNNY BY`s!" 🎉  
