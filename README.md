@@ -6,7 +6,7 @@
 ## 🌟 **Module 0: Analytics Essentials**  
 ### Theory & Jokes  
 - "Data analytics is like being a translator 🔡 - you turn numbers into business decisions!"
-- - "Analytics is like being a detective 🕵️♂️, but for business mysteries!"  
+- "Analytics is like being a detective 🕵️♂️, but for business mysteries!"  
 - **Key Foundations**:  
   - Data types (Nominal/Ordinal/Interval/Ratio)  
   - Bias types (Sampling, Confirmation) → "Confirmation bias is why horoscopes 'work'" ♋  
