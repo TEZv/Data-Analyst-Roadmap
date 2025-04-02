@@ -14,6 +14,10 @@
   - Bias types (Sampling, Confirmation) → "Confirmation bias is why horoscopes 'work'" ♋  
   - Reliability (Cronbach's α) vs. Validity → "A reliable scale weighs you the same daily; valid scale shows your real weight 🏋️♂️" / "Does this thermometer measure *temperature* or just *length*?"
 
+### ⁉️**Must-Know**:  
+  - **Validity ≠ Reliability**: "A broken clock is reliable (shows same time) but not valid!"
+  - **Ordinal Trap**: "Never calculate means from star ratings ⭐⭐⭐⭐"
+
 ### Practical  
 - **Task 1**: Analyze your Spotify Wrapped data → Find 3 biases in their yearly summary  
 - **Task 2**: Calculate "Coffee Productivity Ratio" ☕📈 = (Tasks completed)/(Cups consumed)  
@@ -29,12 +33,15 @@
 - **Inferential Statistics**  
   - Central Limit Theorem demo with cookie prices 🍪  
   - Hypothesis Testing: "Is your coworker's coin toss *really* fair?"
-  - 
+    
 - Descriptive stats (Mean/Median/Mode) → "The 3 Musketeers of Central Tendency!"  
-- Hypothesis testing → "P-values: Not a measure of truth, just weirdness" 🎭  
+- Hypothesis testing → "P-values: Not a measure of truth, just weirdness" 🎭
+-  
 ### ⁉️**Must-Know**:  
+  - **CLT Magic**: "30+ samples make any distribution normal-ish!"  
+  - **P-Value Truth**: "It's the probability of data GIVEN null hypothesis, not vice versa"
   - Central Limit Theorem → "Why 30 samples is the magic number 🎱"  
-  - Bayesian Basics → "Updating beliefs like a poker player 🃏"  
+  - Bayesian Basics → "Updating beliefs like a poker player 🃏"
 
 ### Practical  
 - **Dataset**: [Titanic Survival Data](https://www.kaggle.com/c/titanic)  
@@ -53,6 +60,10 @@
   - ANCOVA: "Controlling for caffeine intake in productivity studies ☕"  
   - Polynomial Regression: "When relationships aren't straight-laced"  
 
+### ⁉️**Must-Know**:  
+  - **Chi-Squared Limitation**: "Never use with expected counts <5"  
+  - **ANCOVA Secret**: "Always check homogeneity of slopes first"
+
 ### Practical  
 - **Task**: Analyze salary differences by education level *while controlling for age*  
 
@@ -67,9 +78,13 @@
   - NumPy → "Math magic for arrays 🎩"  
   - Matplotlib → "Make charts even your grandma understands 👵"  
 
+### ⁉️**Must-Know**:  
+  - **NaN Danger**: ".isna().sum() first, ask questions later"  
+  - **Merge Types**: "Inner vs outer joins = Venn diagram logic 🔵🔴"
+
 ### Practical  
 - **Project**: Analyze [Spotify Top Songs](https://www.kaggle.com/leonardopena/top-spotify-songs-2023)  
-  - Task: Find why Ed Sheeran songs are longer than Taylor Swift's 🎤  
+  - Task: Find why Ed Sheeran's songs are longer than Taylor Swift's 🎤  
   - Joke Requirement: Add "🐍 Snake Plot" title if using Python  
 
 ---
@@ -79,7 +94,11 @@
 - `SELECT * FROM life WHERE happiness > 8 😎`  
 ### **Focus Areas**:  
   - Joins → "Venn diagrams with data 🟢🔵"  
-  - Subqueries → "Queries within queries, like Inception 🌀"  
+  - Subqueries → "Queries within queries, like Inception 🌀"
+
+### ⁉️**Must-Know**:  
+  - **JOIN Logic**: "LEFT JOIN keeps all orphans from the left table"  
+  - **WHERE vs HAVING**: "Filter before vs after aggregation"
 
 ### Practical  
 - **Simulator**: [SQL Murder Mystery](https://mystery.knightlab.com/) 🕵️♂️  
@@ -95,6 +114,10 @@
   - Gradient Descent → "Rolling down a hill to find the best slope 🏔️"  
 - Logistic Regression:  
   - "When your outcome is yes/no → Use sigmoid magic 🎲"  
+
+### ⁉️**Must-Know**:  
+  - **Overfitting Sign**: "Training accuracy >> test accuracy"  
+  - **Gradient Descent**: "Learning rate = step size down the hill"
 
 ### Practical  
 - **Task 1**: Manually calculate the slope for 5 data points (pen/paper allowed!)  
@@ -113,6 +136,10 @@
   - ROI → "Money earned ÷ money spent 💵"  
   - CTR → "How many clicked your cat meme 🐈⬛"  
 
+### ⁉️**Must-Know**:  
+  - **CTR Reality**: "2% is great for banners, terrible for emails"  
+  - **A/B Test Sin**: "Never stop early based on interim results"
+
 ### Practical  
 - **Project**: Optimize [Google Merchandise Store](https://support.google.com/analytics/answer/6367342)  
   - Task: Increase sales by 10% using only 3 dashboard changes  
@@ -129,8 +156,12 @@
 - **Statistical Criticism**  
   - Spotting p-hacking: "When researchers cheat like gamers 🎮"  
 
-### Task  
+### Practical 
 - Debunk a news headline: "Study shows chocolate causes Nobel Prizes 🍫🏆"  
+
+### ⁉️**Must-Know**:  
+  - **Confounding Rule**: "If it affects both X & Y, it's a confounder"  
+  - **P-Hacking Red Flag**: "Multiple hypothesis testing without correction"
 
 ---
 
@@ -140,6 +171,10 @@
 - **Golden Rules**:  
   - Commit often → "Like saving a video game 🎮"  
   - Write meaningful messages → "No 'stuff' or 'things'"  
+
+### ⁉️**Must-Know**:  
+  - **Commit Philosophy**: "Atomic commits = one change per commit"  
+  - **Message Rule**: "Verbs first: 'Add' not 'Added'"
 
 ### Practical  
 - **Task**: Create GitHub repo with your Titanic analysis → Get 3 stars ⭐ from friends  
@@ -152,7 +187,11 @@
 - Audit Trails
 - AI Ethics (Fairness, Accountability)
 
-### Task:
+### ⁉️**Must-Know**:  
+  - **Pseudonymization**: "Reversible vs irreversible transforms"  
+  - **HIPAA Basics**: "Never store SSNs with diagnoses"
+
+### Practical 
 Anonymize a dataset of patient records (use hashing and generalization).
 
 ## 🗣️ Module 8: Communication & Leadership
@@ -168,7 +207,11 @@ Anonymize a dataset of patient records (use hashing and generalization).
 - Change Management
 - Mentorship
 
-### Task:
+### ⁉️**Must-Know**:  
+  - **Exec Summary Rule**: "One insight per slide + dollar impact"  
+  - **Meme Wisdom**: "Humor increases recall by 40% (citation needed 😉)"
+
+### Practical 
 Turn a technical ML report into a 3-slide exec summary with a meme on slide 2.
 
 ---
