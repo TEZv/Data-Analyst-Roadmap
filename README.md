@@ -128,7 +128,7 @@ Turn a technical ML report into a 3-slide exec summary with a meme on slide 2.
 
 ---
 
-## 🧩 Integration Map: Mentor's Themes → Your Program
+## 🧩 Integration Map of Modules
 
 | Theme                       | Your Module       | Key Additions                                | Practical Task Example                          | Difficulty |
 |-----------------------------|-------------------|----------------------------------------------|-------------------------------------------------|------------|
