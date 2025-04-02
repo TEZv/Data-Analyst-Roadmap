@@ -1,4 +1,4 @@
-# 📊 Data Analyst Roadmap: Junior to Mid-Level  
+# 📊 Data Analyst Roadmap: Newbie to Junior-Level  
 *Streamlined foundational program with deep practical focus - "Learn to walk before you fly!"* ✨
 
 ---
