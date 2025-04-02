@@ -7,12 +7,12 @@
 
 ## 🌟 **Module 0: Analytics Essentials**  
 ### Theory & Jokes  
-- - "Data analytics is like being a translator 🔡 - you turn numbers into business decisions!"
-- - "Analytics is like being a detective 🕵️♂️, but for business mysteries!"  
+- "Data analytics is like being a translator 🔡 - you turn numbers into business decisions!"
+- "Analytics is like being a detective 🕵️♂️, but for business mysteries!"  
 ### **Key Foundations**:  
   - Data types (Nominal/Ordinal/Interval/Ratio)  
   - Bias types (Sampling, Confirmation) → "Confirmation bias is why horoscopes 'work'" ♋  
-  - Reliability (Cronbach's α) vs. Validity → "A reliable scale weighs you the same daily; valid scale shows your real weight 🏋️♂️"
+  - Reliability (Cronbach's α) vs. Validity → "A reliable scale weighs you the same daily; valid scale shows your real weight 🏋️♂️" / "Does this thermometer measure *temperature* or just *length*?"
 
 ### Practical  
 - **Task 1**: Analyze your Spotify Wrapped data → Find 3 biases in their yearly summary  
@@ -22,9 +22,17 @@
 
 ## 📈 **Module 1: Statistics Deep Dive**  
 ### Core Concepts  
+- **Probability Theory**  
+  - Bayes' Theorem: "Updating beliefs like a poker player 🃏"  
+  - Practice: Calculate spam email probability given keyword triggers  
+
+- **Inferential Statistics**  
+  - Central Limit Theorem demo with cookie prices 🍪  
+  - Hypothesis Testing: "Is your coworker's coin toss *really* fair?"
+  - 
 - Descriptive stats (Mean/Median/Mode) → "The 3 Musketeers of Central Tendency!"  
 - Hypothesis testing → "P-values: Not a measure of truth, just weirdness" 🎭  
-- **Must-Know**:  
+### **Must-Know**:  
   - Central Limit Theorem → "Why 30 samples is the magic number 🎱"  
   - Bayesian Basics → "Updating beliefs like a poker player 🃏"  
 
@@ -33,6 +41,21 @@
 - **Task**:  
   1. Calculate survival probability for 1st vs 3rd class  
   2. Make a 1-min TikTok-style explainer 📱 ("Why rich people survived? 💰")  
+
+---
+## 🔬 **New Module 1.5: Statistical Methods Mastery**  
+
+### Theory  
+- **Categorical Data Analysis**  
+  - χ² Test: "Do cats 🐈⬛ prefer boxes by color?"  
+  - Likert Scales: "When 'Strongly Agree' needs a number"  
+
+- **Regression & ANOVA**  
+  - ANCOVA: "Controlling for caffeine intake in productivity studies ☕"  
+  - Polynomial Regression: "When relationships aren't straight-laced"  
+
+### Practical  
+- **Task**: Analyze salary differences by education level *while controlling for age*  
 
 ---
 
@@ -82,6 +105,10 @@
 
 ## 📉 **Module 5: Business Analytics**  
 ### Real-World Skills  
+- **Quality Management**  
+  - Control charts: "Is this month's sales drop normal or alarming?"  
+  - Risk vs Odds: "Why 80% success ≠ 20% failure"
+
 - A/B Testing → "Is red button better than blue? 🟥🟦"  
 - **Metrics Mastery**:  
   - ROI → "Money earned ÷ money spent 💵"  
@@ -91,6 +118,20 @@
 - **Project**: Optimize [Google Merchandise Store](https://support.google.com/analytics/answer/6367342)  
   - Task: Increase sales by 10% using only 3 dashboard changes  
   - Present findings as a 3-panel comic strip 🎨  
+
+---
+
+## 🔍 **Module 5.5: Research & Critical Analysis**  
+### Theory  
+- **Study Design**  
+  - Experimental vs Observational: "Lab coats 🥼 vs binoculars 🔭"  
+  - Confounding variables: "The hidden puppeteers of data"  
+
+- **Statistical Criticism**  
+  - Spotting p-hacking: "When researchers cheat like gamers 🎮"  
+
+### Task  
+- Debunk a news headline: "Study shows chocolate causes Nobel Prizes 🍫🏆"  
 
 ---
 
@@ -117,6 +158,10 @@ Anonymize a dataset of patient records (use hashing and generalization).
 
 ## 🗣️ Module 8: Communication & Leadership
 ### Theory
+- **Statistical Storytelling**  
+  - "Make ANOVA results exciting like a Netflix plot 📺"  
+- **Psychometrics**  
+  - Standardized scores: "Why 'top 10%' beats '80 points'"
 - Stakeholder Mapping
 - Data Storytelling (Story Arc, Hero’s Journey)
 - Executive Summaries
@@ -132,14 +177,20 @@ Turn a technical ML report into a 3-slide exec summary with a meme on slide 2.
 
 | Theme                       | Your Module       | Key Additions                                | Practical Task Example                          | Difficulty |
 |-----------------------------|-------------------|----------------------------------------------|-------------------------------------------------|------------|
-| **Measurement Fundamentals**| Module 0          | Validity/reliability metrics                | Audit Spotify Wrapped for measurement bias      | ⭐          |
-| **Probability Theory**      | Module 1          | Bayes' Theorem games                        | Calculate spam probability given keywords       | ⭐⭐        |
-| **Inferential Statistics**  | Module 1          | CLT visualizations                          | Cookie price sampling simulation 🍪             | ⭐⭐        |
-| **Categorical Data Analysis**| New Module 1.5    | Chi-squared case study                      | Test if cat color 🐈⬛ affects box preference    | ⭐⭐        |
-| **ANOVA/Regression**        | New Module 1.5    | ANCOVA with Python                          | Salary analysis controlling for age            | ⭐⭐⭐       |
-| **Data Management**         | Module 2 (Python) | Data profiling task                         | Create a codebook for Titanic dataset          | ⭐          |
-| **Research Design**         | New Module 5.5    | Design a mock A/B test                      | "Does button color 🟥/🟦 affect signups?"       | ⭐⭐        |
-| **Statistical Criticism**   | New Module 5.5    | "Spot the Flaw" challenges                  | Debunk a news headline about chocolate 🍫 & Nobel Prizes | ⭐⭐⭐       |
+| **Measurement Fundamentals** | Module 0          | Validity/reliability metrics                 | Audit Spotify Wrapped for measurement bias      | ⭐          |
+| **Probability Theory**       | Module 1          | Bayes' Theorem games                         | Calculate spam probability given keywords       | ⭐⭐        |
+| **Inferential Statistics**   | Module 1          | CLT visualizations                           | Cookie price sampling simulation 🍪             | ⭐⭐        |
+| **Categorical Data Analysis**| Module 1.5        | Chi-squared case study                       | Test if cat color 🐈⬛ affects box preference    | ⭐⭐        |
+| **ANOVA/Regression**         | Module 1.5        | ANCOVA with Python                           | Salary analysis controlling for age             | ⭐⭐⭐       |
+| **Python Data Management**   | Module 2          | Missing data handling + codebooks            | Analyze Spotify song lengths (🐍 Snake Plot)    | ⭐⭐        |
+| **SQL Query Mastery**        | Module 3          | Joins/Subqueries as Inception 🌀             | Solve SQL Murder Mystery cases 🕵️♂️            | ⭐⭐        |
+| **ML Basics**                | Module 4          | Gradient descent visualization 🏔️           | Predict exam pass/fail with logistic regression  | ⭐⭐⭐       |
+| **Business Metrics**         | Module 5          | A/B testing + ROI/CTR focus                  | Optimize Google Merchandise Store (comic strip)  | ⭐⭐        |
+| **Research Design**          | Module 5.5        | Experimental vs observational studies        | Design mock A/B test (🟥 vs 🟦 buttons)         | ⭐⭐⭐       |
+| **Statistical Criticism**    | Module 5.5        | P-hacking detection                          | Debunk "Chocolate = Nobel Prizes" study 🍫🏆     | ⭐⭐⭐       |
+| **Git Workflow**             | Module 6          | Meaningful commit messages                   | Titanic analysis repo with 3 stars ⭐           | ⭐          |
+| **Data Ethics**              | Module 7          | Pseudonymization techniques                  | Anonymize patient records 🏥                    | ⭐⭐        |
+| **Statistical Storytelling** | Module 8          | Netflix-style ANOVA explanations 📺          | Turn ML report into 3-slide meme summary        | ⭐⭐        |
 
 ### 📌 Legend  
 - 🐈⬛ = Categorical data task  
@@ -147,13 +198,14 @@ Turn a technical ML report into a 3-slide exec summary with a meme on slide 2.
 - 🟥/🟦 = A/B testing  
 - 🍫 = Critical analysis case  
 - ⭐ = Foundational  
-- ⭐⭐ = Intermediate (requires prior knowledge)  
-- ⭐⭐⭐ = Advanced (applied + technical)  
+- ⭐⭐ = Intermediate  
+- ⭐⭐⭐ = Advanced  
 
 ### 💡 Pro Tip:  
-Use `> [!NOTE]` in GitHub Markdown for highlighted callouts:  
+Use `> [!NOTE]` for important callouts:  
 > [!NOTE]  
-> **ANCOVA** (⭐⭐⭐) assumes Python + stats familiarity. Pair with Module 2 skills.  
+> **Module 1.5** (ANCOVA) requires Python + stats basics from Modules 1-2.  
+> **Module 5.5** is best taken after completing Modules 1-5.
 
 ## 🎯 **Final Project**  
 **Build a Portfolio Piece**:  
