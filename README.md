@@ -35,8 +35,9 @@
   - Hypothesis Testing: "Is your coworker's coin toss *really* fair?"
     
 - Descriptive stats (Mean/Median/Mode) → "The 3 Musketeers of Central Tendency!"  
-- Hypothesis testing → "P-values: Not a measure of truth, just weirdness" 🎭
--  
+- Hypothesis testing → "P-values: Not a measure of truth, just weirdness" 
+-  Parametric/Non-Parametric Testing (2 non-parametric models check in previous version of this agenda)
+ 
 ### ⁉️**Must-Know**:  
   - **CLT Magic**: "30+ samples make any distribution normal-ish!"  
   - **P-Value Truth**: "It's the probability of data GIVEN null hypothesis, not vice versa"
