@@ -7,12 +7,12 @@
 
 ## 🌟 **Module 0: Analytics Essentials**  
 ### Theory & Jokes  
-- "Data analytics is like being a translator 🔡 - you turn numbers into business decisions!"
-- "Analytics is like being a detective 🕵️♂️, but for business mysteries!"  
+- - "Data analytics is like being a translator 🔡 - you turn numbers into business decisions!"
+- - "Analytics is like being a detective 🕵️♂️, but for business mysteries!"  
 - **Key Foundations**:  
   - Data types (Nominal/Ordinal/Interval/Ratio)  
   - Bias types (Sampling, Confirmation) → "Confirmation bias is why horoscopes 'work'" ♋  
-  - Reliability vs Validity → "A reliable scale weighs you the same daily; valid scale shows your real weight 🏋️♂️"
+  - Reliability (Cronbach's α) vs. Validity → "A reliable scale weighs you the same daily; valid scale shows your real weight 🏋️♂️"
 
 ### Practical  
 - **Task 1**: Analyze your Spotify Wrapped data → Find 3 biases in their yearly summary  
