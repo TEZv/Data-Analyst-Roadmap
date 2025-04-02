@@ -1,4 +1,4 @@
-# 📊 Data Analyst Roadmap: Newbie to Junior-Level  
+# 📊 Data Analyst Roadmap: Newbie to Junior-Level [by Digital Kosatiks]
 *Streamlined foundational program with deep practical focus - "Learn to walk before you fly!"* ✨
 
 ---
@@ -140,5 +140,6 @@ Turn a technical ML report into a 3-slide exec summary with a meme on slide 2.
 ### 📚 **Resources**  
 - **Math for ML**: [3Blue1Brown's Essence of Calculus](https://www.3blue1brown.com/topics/calculus)  
 - **SQL Fun**: [SQL Island Game](https://sql-island.informatik.uni-kl.de/)  
-- **1 Non-Funny Joke**: Why did the data analyst break up with Excel? Because they wanted a *relation*ship! 💔
-- **2 Non-Funny but closer to Joke**: "Why was the SQL query sad? Too many `GROUP BY`s, no `FUNNY BY`s!" 🎉  
+- - **1 Non-Funny Joke**: Why did the data analyst break up with Excel? Because they wanted a *relation*ship! 💔
+- - **2 Non-Funny but closer to Joke**: "Why was the SQL query sad? Too many `GROUP BY`s, no `FUNNY BY`s!" 🎉
+  - - [Google Docs Data Lake](https://docs.google.com/document/d/1z4ErLYlnAcwZEbXqJ9SM_AJ-AojH6kQrCU0lV_5G5Ek/edit?usp=sharing)
