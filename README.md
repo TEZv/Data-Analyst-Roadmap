@@ -9,7 +9,7 @@
 ### Theory & Jokes  
 - - "Data analytics is like being a translator 🔡 - you turn numbers into business decisions!"
 - - "Analytics is like being a detective 🕵️♂️, but for business mysteries!"  
-**Key Foundations**:  
+### **Key Foundations**:  
   - Data types (Nominal/Ordinal/Interval/Ratio)  
   - Bias types (Sampling, Confirmation) → "Confirmation bias is why horoscopes 'work'" ♋  
   - Reliability (Cronbach's α) vs. Validity → "A reliable scale weighs you the same daily; valid scale shows your real weight 🏋️♂️"
