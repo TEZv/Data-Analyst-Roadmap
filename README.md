@@ -32,7 +32,7 @@
   - 
 - Descriptive stats (Mean/Median/Mode) → "The 3 Musketeers of Central Tendency!"  
 - Hypothesis testing → "P-values: Not a measure of truth, just weirdness" 🎭  
-### **Must-Know**:  
+### ⁉️**Must-Know**:  
   - Central Limit Theorem → "Why 30 samples is the magic number 🎱"  
   - Bayesian Basics → "Updating beliefs like a poker player 🃏"  
 
@@ -43,8 +43,7 @@
   2. Make a 1-min TikTok-style explainer 📱 ("Why rich people survived? 💰")  
 
 ---
-## 🔬 **New Module 1.5: Statistical Methods Mastery**  
-
+## 🔬 **Module 1.5: Statistical Methods Mastery**  
 ### Theory  
 - **Categorical Data Analysis**  
   - χ² Test: "Do cats 🐈⬛ prefer boxes by color?"  
@@ -64,7 +63,7 @@
 - Pandas (🐼 Mastery):  
   - "Merge datasets like arranging a wedding 👰♀️🤵♂️"  
   - Handle missing data → "NaN is not your friend. Use `.fillna()`!"  
-- **Key Libraries**:  
+### **Key Libraries**:  
   - NumPy → "Math magic for arrays 🎩"  
   - Matplotlib → "Make charts even your grandma understands 👵"  
 
@@ -78,7 +77,7 @@
 ## 🗃️ **Module 3: SQL - The Data Language**  
 ### Talk Like a Pro  
 - `SELECT * FROM life WHERE happiness > 8 😎`  
-- **Focus Areas**:  
+### **Focus Areas**:  
   - Joins → "Venn diagrams with data 🟢🔵"  
   - Subqueries → "Queries within queries, like Inception 🌀"  
 
@@ -98,7 +97,7 @@
   - "When your outcome is yes/no → Use sigmoid magic 🎲"  
 
 ### Practical  
-- **Task 1**: Manually calculate slope for 5 data points (pen/paper allowed!)  
+- **Task 1**: Manually calculate the slope for 5 data points (pen/paper allowed!)  
 - **Task 2**: Predict exam pass/fail using [Student Performance Data](https://www.kaggle.com/datasets/whenamancodes/student-performance)  
 
 ---
@@ -109,8 +108,8 @@
   - Control charts: "Is this month's sales drop normal or alarming?"  
   - Risk vs Odds: "Why 80% success ≠ 20% failure"
 
-- A/B Testing → "Is red button better than blue? 🟥🟦"  
-- **Metrics Mastery**:  
+- A/B Testing → "Is the red button better than blue? 🟥🟦"  
+### **Metrics Mastery**:  
   - ROI → "Money earned ÷ money spent 💵"  
   - CTR → "How many clicked your cat meme 🐈⬛"  
 
@@ -162,6 +161,7 @@ Anonymize a dataset of patient records (use hashing and generalization).
   - "Make ANOVA results exciting like a Netflix plot 📺"  
 - **Psychometrics**  
   - Standardized scores: "Why 'top 10%' beats '80 points'"
+    
 - Stakeholder Mapping
 - Data Storytelling (Story Arc, Hero’s Journey)
 - Executive Summaries
