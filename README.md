@@ -128,6 +128,33 @@ Turn a technical ML report into a 3-slide exec summary with a meme on slide 2.
 
 ---
 
+## 🧩 Integration Map: Mentor's Themes → Your Program
+
+| Theme                       | Your Module       | Key Additions                                | Practical Task Example                          | Difficulty |
+|-----------------------------|-------------------|----------------------------------------------|-------------------------------------------------|------------|
+| **Measurement Fundamentals**| Module 0          | Validity/reliability metrics                | Audit Spotify Wrapped for measurement bias      | ⭐          |
+| **Probability Theory**      | Module 1          | Bayes' Theorem games                        | Calculate spam probability given keywords       | ⭐⭐        |
+| **Inferential Statistics**  | Module 1          | CLT visualizations                          | Cookie price sampling simulation 🍪             | ⭐⭐        |
+| **Categorical Data Analysis**| New Module 1.5    | Chi-squared case study                      | Test if cat color 🐈⬛ affects box preference    | ⭐⭐        |
+| **ANOVA/Regression**        | New Module 1.5    | ANCOVA with Python                          | Salary analysis controlling for age            | ⭐⭐⭐       |
+| **Data Management**         | Module 2 (Python) | Data profiling task                         | Create a codebook for Titanic dataset          | ⭐          |
+| **Research Design**         | New Module 5.5    | Design a mock A/B test                      | "Does button color 🟥/🟦 affect signups?"       | ⭐⭐        |
+| **Statistical Criticism**   | New Module 5.5    | "Spot the Flaw" challenges                  | Debunk a news headline about chocolate 🍫 & Nobel Prizes | ⭐⭐⭐       |
+
+### 📌 Legend  
+- 🐈⬛ = Categorical data task  
+- 🍪 = Simulated dataset  
+- 🟥/🟦 = A/B testing  
+- 🍫 = Critical analysis case  
+- ⭐ = Foundational  
+- ⭐⭐ = Intermediate (requires prior knowledge)  
+- ⭐⭐⭐ = Advanced (applied + technical)  
+
+### 💡 Pro Tip:  
+Use `> [!NOTE]` in GitHub Markdown for highlighted callouts:  
+> [!NOTE]  
+> **ANCOVA** (⭐⭐⭐) assumes Python + stats familiarity. Pair with Module 2 skills.  
+
 ## 🎯 **Final Project**  
 **Build a Portfolio Piece**:  
 1. **Dataset**: [COVID-19 Data](https://ourworldindata.org/covid-deaths)  
