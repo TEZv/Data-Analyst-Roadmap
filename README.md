@@ -81,12 +81,12 @@
 ### Theory & Jokes  
   - "Data analytics is like being a translator 🔡 - you turn numbers into business decisions!"
   - "Analytics is like being a detective 🕵️♂️, but for business mysteries!"  
-### **Key Foundations**:  
+### **Key Foundations**
   - Data types (Nominal/Ordinal/Interval/Ratio)  
   - Bias types (Sampling, Confirmation) → "Confirmation bias is why horoscopes 'work'" ♋  
   - Reliability (Cronbach's α) vs. Validity → "A reliable scale weighs you the same daily; valid scale shows your real weight 🏋️♂️" / "Does this thermometer measure *temperature* or just *length*?"
 
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know**
   - **Validity ≠ Reliability**: "A broken clock is reliable (shows same time) but not valid!"
   - **Ordinal Trap**: "Never calculate means from star ratings ⭐⭐⭐⭐"
 
@@ -110,7 +110,7 @@
   - Power Analysis (Sample Size Calculation)
   - Effect Sizes (Cohen’s d, Odds Ratio)
  
-- **Edge Cases**:  
+- **Edge Cases**  
   - Time Series Analysis (ARIMA, Seasonality)
     
      *Note: While time series is often considered its own domain,
@@ -119,7 +119,7 @@
    **Exploratory data analysis (EDA)**
     - Descriptive stats (Mean/Median/Mode) → "The 3 Musketeers of Central Tendency!"  
  
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know**  
   - **CLT Magic**: "30+ samples make any distribution normal-ish!"  
   - **P-Value Truth**: "It's the probability of data GIVEN null hypothesis, not vice versa"
   - Central Limit Theorem → "Why 30 samples is the magic number 🎱"  
@@ -142,7 +142,7 @@
   - ANCOVA: "Controlling for caffeine intake in productivity studies ☕"  
   - Polynomial Regression: "When relationships aren't straight-laced"  
 
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know**  
   - **Chi-Squared Limitation**: "Never use with expected counts <5"  
   - **ANCOVA Secret**: "Always check homogeneity of slopes first"
 
@@ -153,14 +153,14 @@
 
 ## 🐍 **Module 2: Python for DA Jedi**  
 ### Lightsaber Skills ⚔️  
-- Pandas (🐼 Mastery):  
+- Pandas (🐼 Mastery) 
   - "Merge datasets like arranging a wedding 👰♀️🤵♂️"  
   - Handle missing data → "NaN is not your friend. Use `.fillna()`!"  
-### **Key Libraries**:  
+### **Key Libraries**  
   - NumPy → "Math magic for arrays 🎩"  
   - Matplotlib → "Make charts even your grandma understands 👵"  
 
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know**
   - **NaN Danger**: ".isna().sum() first, ask questions later"  
   - **Merge Types**: "Inner vs outer joins = Venn diagram logic 🔵🔴"
 
@@ -174,11 +174,11 @@
 ## 🗃️ **Module 3: SQL - The Data Language**  
 ### Talk Like a Pro  
 - `SELECT * FROM life WHERE happiness > 8 😎`  
-### **Focus Areas**:  
+### **Focus Areas**
   - Joins → "Venn diagrams with data 🟢🔵"  
   - Subqueries → "Queries within queries, like Inception 🌀"
 
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know**
   - **JOIN Logic**: "LEFT JOIN keeps all orphans from the left table"  
   - **WHERE vs HAVING**: "Filter before vs after aggregation"
 
@@ -190,14 +190,14 @@
 
 ## 🤖 **Module 4: ML for Humans**  
 ### No-BS Theory  
-- Linear Regression:  
+- Linear Regression
   - "It's just y=mx+b from school... but with matrices 🧮"  
   - Cost Function → "Penalty for wrong predictions ❌"  
   - Gradient Descent → "Rolling down a hill to find the best slope 🏔️"  
-- Logistic Regression:  
+- Logistic Regression  
   - "When your outcome is yes/no → Use sigmoid magic 🎲"  
 
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know**
   - **Overfitting Sign**: "Training accuracy >> test accuracy"  
   - **Gradient Descent**: "Learning rate = step size down the hill"
 
@@ -208,7 +208,7 @@
 ---
 
 ## 📉 **Module 5: Business Analytics**  
-### Real-World Skills  
+### Real-World Skills
 - **Quality Management**  
   - Control charts: "Is this month's sales drop normal or alarming?"  
   - Risk vs Odds: "Why 80% success ≠ 20% failure"
@@ -218,7 +218,7 @@
   - ROI → "Money earned ÷ money spent 💵"  
   - CTR → "How many clicked your cat meme 🐈⬛"  
 
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know**
   - **CTR Reality**: "2% is great for banners, terrible for emails"  
   - **A/B Test Sin**: "Never stop early based on interim results"
 
@@ -241,7 +241,7 @@
 ### Practical 
 - Debunk a news headline: "Study shows chocolate causes Nobel Prizes 🍫🏆"  
 
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know**
   - **Confounding Rule**: "If it affects both X & Y, it's a confounder"  
   - **P-Hacking Red Flag**: "Multiple hypothesis testing without correction"
 
@@ -250,11 +250,11 @@
 ## 🛠️ **Module 6: Git & Workflow**  
 ### Survival Skills  
 - `git commit -m "Fixed everything 🔧"` → (Never do this!)  
-- **Golden Rules**:  
+- **Golden Rules**
   - Commit often → "Like saving a video game 🎮"  
   - Write meaningful messages → "No 'stuff' or 'things'"  
 
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know** 
   - **Commit Philosophy**: "Atomic commits = one change per commit"  
   - **Message Rule**: "Verbs first: 'Add' not 'Added'"
 
@@ -269,7 +269,7 @@
 - Audit Trails
 - AI Ethics (Fairness, Accountability)
 
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know** 
   - **Pseudonymization**: "Reversible vs irreversible transforms"  
   - **HIPAA Basics**: "Never store SSNs with diagnoses"
 
@@ -289,7 +289,7 @@ Anonymize a dataset of patient records (use hashing and generalization).
 - Change Management
 - Mentorship
 
-### ⁉️**Must-Know**:  
+### ⁉️**Must-Know**
   - **Exec Summary Rule**: "One insight per slide + dollar impact"  
   - **Meme Wisdom**: "Humor increases recall by 40% (citation needed 😉)"
 
