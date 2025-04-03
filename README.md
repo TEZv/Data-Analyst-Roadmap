@@ -94,6 +94,8 @@
 - **Task 1**: Analyze your Spotify Wrapped data → Find 3 biases in their yearly summary  
 - **Task 2**: Calculate "Coffee Productivity Ratio" ☕📈 = (Tasks completed)/(Cups consumed)  
 
+### 📚 Resources
+
 ---
 
 ## 📈 **Module 1: Statistics Deep Dive**  
@@ -131,7 +133,10 @@
   1. Calculate survival probability for 1st vs 3rd class  
   2. Make a 1-min TikTok-style explainer 📱 ("Why rich people survived? 💰")  
 
+### 📚 Resources
+
 ---
+
 ## 🔬 **Module 1.5: Statistical Methods Mastery**  
 ### Theory  
 - **Categorical Data Analysis**  
@@ -148,6 +153,8 @@
 
 ### Practical  
 - **Task**: Analyze salary differences by education level *while controlling for age*  
+
+### 📚 Resources
 
 ---
 
@@ -169,6 +176,8 @@
   - Task: Find why Ed Sheeran's songs are longer than Taylor Swift's 🎤  
   - Joke Requirement: Add "🐍 Snake Plot" title if using Python  
 
+### 📚 Resources
+
 ---
 
 ## 🗃️ **Module 3: SQL - The Data Language**  
@@ -185,6 +194,8 @@
 ### Practical  
 - **Simulator**: [SQL Murder Mystery](https://mystery.knightlab.com/) 🕵️♂️  
 - **Task**: Solve 3 cases → Screenshot your solutions with emoji reactions 🎉
+
+### 📚 Resources
 
 ---
 
@@ -204,6 +215,8 @@
 ### Practical  
 - **Task 1**: Manually calculate the slope for 5 data points (pen/paper allowed!)  
 - **Task 2**: Predict exam pass/fail using [Student Performance Data](https://www.kaggle.com/datasets/whenamancodes/student-performance)  
+
+### 📚 Resources
 
 ---
 
@@ -227,6 +240,8 @@
   - Task: Increase sales by 10% using only 3 dashboard changes  
   - Present findings as a 3-panel comic strip 🎨  
 
+### 📚 Resources
+
 ---
 
 ## 🔍 **Module 5.5: Research & Critical Analysis**  
@@ -245,6 +260,8 @@
   - **Confounding Rule**: "If it affects both X & Y, it's a confounder"  
   - **P-Hacking Red Flag**: "Multiple hypothesis testing without correction"
 
+### 📚 Resources
+
 ---
 
 ## 🛠️ **Module 6: Git & Workflow**  
@@ -261,6 +278,10 @@
 ### Practical  
 - **Task**: Create GitHub repo with your Titanic analysis → Get 3 stars ⭐ from friends  
 
+### 📚 Resources
+
+---
+
 ## 🔒 Module 7: Data Governance & Ethics
 ### Theory
 - Data Privacy (Pseudonymization, k-Anonymity)
@@ -275,6 +296,10 @@
 
 ### Practical 
 Anonymize a dataset of patient records (use hashing and generalization).
+
+### 📚 Resources
+
+---
 
 ## 🗣️ Module 8: Communication & Leadership
 ### Theory
@@ -295,6 +320,8 @@ Anonymize a dataset of patient records (use hashing and generalization).
 
 ### Practical 
 Turn a technical ML report into a 3-slide exec summary with a meme on slide 2.
+
+### 📚 Resources
 
 ---
 
