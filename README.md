@@ -38,9 +38,11 @@
   - Power Analysis (Sample Size Calculation)
   - Effect Sizes (Cohen’s d, Odds Ratio)
  
-  - **Edge Cases**:  
-   - Time Series Analysis (ARIMA, Seasonality)  
-     *Note: While time series is often considered its own domain, ARIMA modeling involves inferring future trends from historical data, making it partially inferential.*  
+- **Edge Cases**:  
+  - Time Series Analysis (ARIMA, Seasonality)
+    
+     *Note: While time series is often considered its own domain,
+    ARIMA modeling involves inferring future trends from historical data, making it partially inferential.*  
 
    **Exploratory data analysis (EDA)**
     - Descriptive stats (Mean/Median/Mode) → "The 3 Musketeers of Central Tendency!"  
