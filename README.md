@@ -5,6 +5,78 @@
 
 ---
 
+# 📚 Table of Contents
+
+## 🌟 Foundational Modules
+1. **[Module 0: Analytics Essentials](#-module-0-analytics-essentials)**  
+   - Data types & measurement  
+   - Bias detection & validity  
+   - Practical: Spotify Wrapped analysis
+
+2. **[Module 1: Statistics Deep Dive](#-module-1-statistics-deep-dive)**  
+   - Probability theory (Bayes)  
+   - Inferential statistics (CLT, p-values)  
+   - Practical: Titanic survival analysis
+
+3. **[Module 1.5: Statistical Methods](#-module-15-statistical-methods-mastery)**  
+   - Categorical data (χ²)  
+   - Regression & ANCOVA  
+   - Practical: Salary analysis
+
+## 💻 Technical Skills
+4. **[Module 2: Python for DA](#-module-2-python-for-da-jedi)**  
+   - Pandas/NumPy mastery  
+   - Data cleaning techniques  
+   - Practical: Spotify song analysis
+
+5. **[Module 3: SQL](#-module-3-sql---the-data-language)**  
+   - Joins & subqueries  
+   - Query optimization  
+   - Practical: SQL Murder Mystery
+
+6. **[Module 4: ML Basics](#-module-4-ml-for-humans)**  
+   - Linear/logistic regression  
+   - Gradient descent  
+   - Practical: Exam pass prediction
+
+## 📊 Business Applications
+7. **[Module 5: Business Analytics](#-module-5-business-analytics)**  
+   - A/B testing & metrics  
+   - Quality management  
+   - Practical: Store optimization
+
+8. **[Module 5.5: Research Design](#-module-55-research--critical-analysis)**  
+   - Experimental vs observational  
+   - Statistical criticism  
+   - Practical: Study debunking
+
+## 🛠️ Professional Skills
+9. **[Module 6: Git & Workflow](#-module-6-git--workflow)**  
+   - Version control best practices  
+   - Practical: GitHub repo creation
+
+10. **[Module 7: Data Ethics](#-module-7-data-governance--ethics)**  
+    - Privacy & compliance  
+    - Practical: Data anonymization
+
+11. **[Module 8: Communication](#-module-8-communication--leadership)**  
+    - Statistical storytelling  
+    - Executive summaries  
+    - Practical: Report transformation
+
+## 🏁 Final Project
+12. **[Capstone Project](#-final-project)**  
+    - COVID-19 data analysis  
+    - SQL + Python + business recs  
+    - Rubber duck presentation 🦆
+
+## 📖 Appendices
+- [Resources](#-resources)  
+- [Integration Map](#-integration-map-of-modules)  
+- [Difficulty Legend](#-legend)
+
+---
+
 ## 🌟 **Module 0: Analytics Essentials**  
 ### Theory & Jokes  
   - "Data analytics is like being a translator 🔡 - you turn numbers into business decisions!"
