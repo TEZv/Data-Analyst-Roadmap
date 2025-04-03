@@ -27,7 +27,7 @@
 ## 📈 **Module 1: Statistics Deep Dive**  
 ### Core Concepts  
 - **Probability Theory**  
-  - Bayes' Theorem: "Updating beliefs like a poker player 🃏"  
+  - Bayes' Theorem: Prior/Posterior Probabilities
   - Practice: Calculate spam email probability given keyword triggers  
 
 - **Inferential Statistics**  
@@ -36,7 +36,12 @@
     
 - Descriptive stats (Mean/Median/Mode) → "The 3 Musketeers of Central Tendency!"  
 - Hypothesis testing → "P-values: Not a measure of truth, just weirdness" 
--  Parametric/Non-Parametric Testing (2 non-parametric models check in previous version of this agenda)
+- Parametric/Non-Parametric Testing (2 non-parametric models check in previous version of this agenda)
+- Probability Theory
+- Nonparametric Tests (Wilcoxon, Kruskal-Wallis)
+- Time Series Analysis (ARIMA, Seasonality)
+- Power Analysis (Sample Size Calculation)
+- Effect Sizes (Cohen’s d, Odds Ratio)
  
 ### ⁉️**Must-Know**:  
   - **CLT Magic**: "30+ samples make any distribution normal-ish!"  
