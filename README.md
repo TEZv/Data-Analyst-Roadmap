@@ -5,7 +5,7 @@
 
 ---
 
-# 📚 Table of Contents
+# >> Table of Contents
 
 ## 🌟 Foundational Modules
 1. **[Module 0: Analytics Essentials](#-module-0-analytics-essentials)**  
