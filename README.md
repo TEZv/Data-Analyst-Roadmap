@@ -27,21 +27,23 @@
 ## 📈 **Module 1: Statistics Deep Dive**  
 ### Core Concepts  
 - **Probability Theory**  
-  - Bayes' Theorem: Prior/Posterior Probabilities
-  - Practice: Calculate spam email probability given keyword triggers  
+  - **Bayes' Theorem**: Prior/Posterior Probabilities
+  - **Practice**: Calculate spam email probability given keyword triggers  
 
 - **Inferential Statistics**  
-  - Central Limit Theorem demo with cookie prices 🍪  
-  - Hypothesis Testing: "Is your coworker's coin toss *really* fair?"
-    
-- Descriptive stats (Mean/Median/Mode) → "The 3 Musketeers of Central Tendency!"  
-- Hypothesis testing → "P-values: Not a measure of truth, just weirdness" 
-- Parametric/Non-Parametric Testing (2 non-parametric models check in previous version of this agenda)
-- Probability Theory
-- Nonparametric Tests (Wilcoxon, Kruskal-Wallis)
-- Time Series Analysis (ARIMA, Seasonality)
-- Power Analysis (Sample Size Calculation)
-- Effect Sizes (Cohen’s d, Odds Ratio)
+  - **Central Limit Theorem** demo with cookie prices 🍪  
+  - **Hypothesis Testing**: "Is your coworker's coin toss *really* fair?" → "P-values: Not a measure of truth, just weirdness"
+  - Nonparametric Tests (Wilcoxon, Kruskal-Wallis)
+  - Time Series Analysis (ARIMA, Seasonality)
+  - Power Analysis (Sample Size Calculation)
+  - Effect Sizes (Cohen’s d, Odds Ratio)
+ 
+  - **Edge Cases**:  
+   - Time Series Analysis (ARIMA, Seasonality)  
+     *Note: While time series is often considered its own domain, ARIMA modeling involves inferring future trends from historical data, making it partially inferential.*  
+
+   **Exploratory data analysis (EDA)**
+    - Descriptive stats (Mean/Median/Mode) → "The 3 Musketeers of Central Tendency!"  
  
 ### ⁉️**Must-Know**:  
   - **CLT Magic**: "30+ samples make any distribution normal-ish!"  
