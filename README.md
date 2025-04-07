@@ -374,8 +374,8 @@ Use `> [!NOTE]` for important callouts:
 - **Math for ML**: [3Blue1Brown's Essence of Calculus](https://www.3blue1brown.com/topics/calculus)  
 - **SQL Fun**: [SQL Island Game](https://sql-island.informatik.uni-kl.de/)
 - Roadmaps:
-   - - [Raccomandazione principale](https://cdn.codewithmosh.com/image/upload/v1722374155/guides/data-analyst-roadmap.pdf)
-   - - [YouTube Raccomandazione](https://www.youtube.com/watch?v=gQRYqlFQNK8)
+  - [Raccomandazione principale](https://cdn.codewithmosh.com/image/upload/v1722374155/guides/data-analyst-roadmap.pdf)
+  - [YouTube Raccomandazione](https://www.youtube.com/watch?v=gQRYqlFQNK8)
    - - [GitHub Raccomandazione 1](https://github.com/mrankitgupta/Data-Analyst-Roadmap)
    - - [GitHub Raccomandazione 2](https://github.com/mtahiraslan/data-analyst-roadmap)
    - - [GitHub Raccomandazione 3](https://roadmap.sh/data-analyst)
@@ -386,5 +386,4 @@ Use `> [!NOTE]` for important callouts:
      
 - - **1 Non-Funny Joke**: Why did the data analyst break up with Excel? Because they wanted a *relation*ship! 💔
 - - **2 Non-Funny but closer to Joke**: "Why was the SQL query sad? Too many `GROUP BY`s, no `FUNNY BY`s!" 🎉
-  - - [Google Docs Formattazione](https://docs.google.com/document/d/1z4ErLYlnAcwZEbXqJ9SM_AJ-AojH6kQrCU0lV_5G5Ek/edit?usp=sharing)
-    - 
+   - [Google Docs Formattazione](https://docs.google.com/document/d/1z4ErLYlnAcwZEbXqJ9SM_AJ-AojH6kQrCU0lV_5G5Ek/edit?usp=sharing)
