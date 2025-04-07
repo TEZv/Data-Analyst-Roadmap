@@ -386,4 +386,4 @@ Use `> [!NOTE]` for important callouts:
      
   - **1 Non-Funny Joke**: Why did the data analyst break up with Excel? Because they wanted a *relation*ship! 💔
   - **2 Non-Funny but closer to Joke**: "Why was the SQL query sad? Too many `GROUP BY`s, no `FUNNY BY`s!" 🎉
-   - [Google Docs Formattazione](https://docs.google.com/document/d/1z4ErLYlnAcwZEbXqJ9SM_AJ-AojH6kQrCU0lV_5G5Ek/edit?usp=sharing)
+     - [Google Docs Formattazione](https://docs.google.com/document/d/1z4ErLYlnAcwZEbXqJ9SM_AJ-AojH6kQrCU0lV_5G5Ek/edit?usp=sharing)
