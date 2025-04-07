@@ -376,8 +376,8 @@ Use `> [!NOTE]` for important callouts:
 - Roadmaps:
   - [Raccomandazione principale](https://cdn.codewithmosh.com/image/upload/v1722374155/guides/data-analyst-roadmap.pdf)
   - [YouTube Raccomandazione](https://www.youtube.com/watch?v=gQRYqlFQNK8)
-   - - [GitHub Raccomandazione 1](https://github.com/mrankitgupta/Data-Analyst-Roadmap)
-   - - [GitHub Raccomandazione 2](https://github.com/mtahiraslan/data-analyst-roadmap)
+     - [GitHub Raccomandazione 1](https://github.com/mrankitgupta/Data-Analyst-Roadmap)
+     - [GitHub Raccomandazione 2](https://github.com/mtahiraslan/data-analyst-roadmap)
    - - [GitHub Raccomandazione 3](https://roadmap.sh/data-analyst)
    - - [GitHub Raccomandazione 4](https://github.com/krishnaik06/Data-Analyst-Roadmap)
    - - [GitHub Raccomandazione 5](https://github.com/rishabhnmishra/YouTube-Resources/blob/main/Data%20Analyst%20Roadmap%20by%20Rishabh%20Mishra.pdf)
